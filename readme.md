@@ -14,7 +14,7 @@
 - 🔭 Currently working at **Meble Wójcik**.
 - 🌱 Mainly experienced in **Java** and modern JS frameworks (**Vue, React, Svelte**).
 - 🚀 Lately, I've been shifting my focus towards **embedded systems** and **AI Apps**.
-- ⚙️ Highly interested in **CI/CD** processes (currently using JetBrains CI/CD toolchains).
+- ⚙️ Highly interested in **CI/CD** processes (currently using JetBrains CI/CD toolchain - TeamCity).
 - 📫 How to reach me: visit my website [megu.moe](https://megu.moe).
 
 ---
