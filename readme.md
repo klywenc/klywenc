@@ -2,8 +2,8 @@
 <h3 align="center">Software Developer from Poland 🇵🇱</h3>
 
 <p align="center">
-  <a href="https://megu.moe" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-megu.moe-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://megqu.moe" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-mequ.moe-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 - 🌱 Mainly experienced in **Java** and modern JS frameworks (**Vue, React, Svelte**).
 - 🚀 Lately, I've been shifting my focus towards **embedded systems** and **AI Apps**.
 - ⚙️ Highly interested in **CI/CD** processes (currently using JetBrains CI/CD toolchain - TeamCity).
-- 📫 How to reach me: visit my website [megu.moe](https://megu.moe).
+- 📫 How to reach me: visit my website [mequ.moe](https://mequ.moe).
 
 ---
 
