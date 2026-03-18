@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer from Poland 🇵🇱</h3>
 
 <p align="center">
-  <a href="https://megqu.moe" target="_blank">
+  <a href="https://mequ.moe" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-mequ.moe-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
