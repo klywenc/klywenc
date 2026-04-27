@@ -11,7 +11,7 @@
 
 ### 👨‍💻 A little bit about me
 
-- 🔭 Currently working at **Meble Wójcik**.
+- 🔭 Currently working at **OPEGIEKA**.
 - 🌱 Mainly experienced in **Java** and modern JS frameworks (**Vue, React, Svelte**).
 - 🚀 Lately, I've been shifting my focus towards **embedded systems** and **AI Apps**.
 - ⚙️ Highly interested in **CI/CD** processes (currently using JetBrains CI/CD toolchain - TeamCity).
